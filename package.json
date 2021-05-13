@@ -1,0 +1,24 @@
+{
+  "name": "html2images",
+  "version": "1.0.0",
+  "description": "a pakages lick html2images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuffyLiu/TuffyLiu-html2images.git"
+  },
+  "keywords": [
+    "html",
+    "canvas",
+    "images"
+  ],
+  "author": "Tuffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuffyLiu/TuffyLiu-html2images/issues"
+  },
+  "homepage": "https://github.com/TuffyLiu/TuffyLiu-html2images#readme"
+}
